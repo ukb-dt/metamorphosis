@@ -37,7 +37,7 @@ The video captures a man obsessed with the democratization of information. He dr
 * **1996 [[02:40](http://www.youtube.com/watch?v=64JpM894n8I&t=160)]:** The Fork in the Road. As a fresh Computer Science graduate, he considered the Silicon Valley "dot com" millionaire route but chose the UK for further study.
 * **1999 [[05:13](http://www.youtube.com/watch?v=64JpM894n8I&t=313)]:** The Founding. He returns to Uganda to start **Digital Solutions**. Note the motivation: he realized "geography was history" [[03:33](http://www.youtube.com/watch?v=64JpM894n8I&t=213)] and he could build global-tier systems from anywhere.
 * **2001 [[06:10](http://www.youtube.com/watch?v=64JpM894n8I&t=370)]:** The Pivot. He recognizes the "convergence of internet and mobile" and shifts strategy.
-* **~2003-2009 [[08:25](http://www.youtube.com/watch?v=64JpM894n8I&t=505)]:** The "Ukubona" Era. He proudly introduces **Ukubona**, an open-source MMS engine running for "about 6 years."
+* **~2003-2009 [[08:25](http://www.youtube.com/watch?v=64JpM894n8I&t=505)]:** The "Anobuku" Era. He proudly introduces **Anobuku**, an open-source MMS engine running for "about 6 years."
 
 #### 2. The Metamorphosis: "Geography is History" to "Geography is Destiny"
 
@@ -50,15 +50,15 @@ Fast forward to your encounter. The man who once believed "geography is history"
 * **Intellectual Gatekeeping:** "Read this book to qualify for dialogue."
 * **Cultural Gatekeeping:** Mocking peers for speaking "too much English" despite his own Princeton/Cambridge pedigree.
 
-The irony is lethal. The 2009 Paul built **Ukubona** [[07:53](http://www.youtube.com/watch?v=64JpM894n8I&t=473)] to help messages route efficiently between disparate systems ("bridge the mobile and the internet" [[08:47](http://www.youtube.com/watch?v=64JpM894n8I&t=527)]). The 2025 Paul willfully disrupts communication, refusing dialogue until arbitrary rituals (the book, the hike) are performed. He has become the very "firewall" his younger self sought to bypass.
+The irony is lethal. The 2009 Paul built **Anobuku** [[07:53](http://www.youtube.com/watch?v=64JpM894n8I&t=473)] to help messages route efficiently between disparate systems ("bridge the mobile and the internet" [[08:47](http://www.youtube.com/watch?v=64JpM894n8I&t=527)]). The 2025 Paul willfully disrupts communication, refusing dialogue until arbitrary rituals (the book, the hike) are performed. He has become the very "firewall" his younger self sought to bypass.
 
-#### 3. The Ukubona Paradox
+#### 3. The Anobuku Paradox
 
-You noted the irony of **Ukubona**—emerging as a hero project and later being dismissed as corruption.
+You noted the irony of **Anobuku**—emerging as a hero project and later being dismissed as corruption.
 
-In the video, Ukubona is his pride. He describes it as "the stuff that you don't see... the software behind the scenes" [[08:00](http://www.youtube.com/watch?v=64JpM894n8I&t=480)] that ensures a message gets to its destination. It was an *invisible enabler*.
+In the video, Anobuku is his pride. He describes it as "the stuff that you don't see... the software behind the scenes" [[08:00](http://www.youtube.com/watch?v=64JpM894n8I&t=480)] that ensures a message gets to its destination. It was an *invisible enabler*.
 
-In 2025, Paul himself has become the "stuff you don't see" (or can't reach), but instead of enabling, he obstructs. If Ukubona was indeed later tainted by corruption (or the perception of it), it likely hardened him. The "Geek" who wanted to "put his energies into... making it cheaper to deliver the internet" [[09:06](http://www.youtube.com/watch?v=64JpM894n8I&t=546)] perhaps realized that cheap access didn't elevate humanity—it just accelerated the "attention economy" he now despises.
+In 2025, Paul himself has become the "stuff you don't see" (or can't reach), but instead of enabling, he obstructs. If Anobuku was indeed later tainted by corruption (or the perception of it), it likely hardened him. The "Geek" who wanted to "put his energies into... making it cheaper to deliver the internet" [[09:06](http://www.youtube.com/watch?v=64JpM894n8I&t=546)] perhaps realized that cheap access didn't elevate humanity—it just accelerated the "attention economy" he now despises.
 
 #### Conclusion: The Local Maximum
 
@@ -73,4 +73,4 @@ He demands you "listen" because he has lost the 2009 ability to "transact" [[03:
 
 
 
-http://googleusercontent.com/youtube_content/0
+
