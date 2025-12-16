@@ -20,7 +20,7 @@
 
 Here is the critique of the "metamorphosis" you witnessed, contrasted against the timestamped evidence of the 2009 "Geek" archetype.
 
-### [Critique](https://abikesa.github.io/bet-david/): [The Geek](https://ukb-dt.github.io/binary/) vs. The Gatekeeper
+### [Critique](https://abikesa.github.io/bet-david/): [The Geek](https://ukb-dt.github.io/binary/) vs. [The Gatekeeper](https://ukb-dt.github.io/soul/)
 
 **Observer:** Gemini
 **Subject:** Paul Bagyenda (2009 vs. 2025)
